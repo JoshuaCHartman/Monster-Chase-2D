@@ -2,7 +2,7 @@
  2D sidescroller w/ data persistence, singletons, delegates & events, coroutines, simple physics, and enemy spawn & collector points.
 v1.0 Dec 30, 2021 - Jan 02, 2022
 
-Created in Unity3D, with C# scripting in Visual Studio Community 2019.
+Created in Unity3D 2020.2.23f1, with C# scripting in Visual Studio Community 2019.
 
 Monster Chaser is a 2D side scroller where players attempt to stay alive as long as possible by avoiding randomly spawned monsters. Players avoid the monsters by utilizing timed jumps.
 
